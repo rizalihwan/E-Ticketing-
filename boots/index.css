@@ -1,0 +1,23 @@
+.hiji{
+    background: url(img/ecdi.jpg);
+    background-size: cover;
+    background-position: -200px, 0px;
+}
+.wew{
+    width: 350px;
+    margin-left: 10px;
+}
+.boton1{
+   width: 100px;
+   height: 100px;
+   margin-top: -55px;
+   margin-left: 365px;
+   border-radius: 50%;
+}
+img{
+    height: 60px;
+    margin-right: 0px;
+}
+.boton1:hover{
+    transform: scale(1.2, 1.2);
+}
